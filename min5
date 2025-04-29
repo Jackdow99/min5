@@ -1,3 +1,6 @@
+**중간고사 코딩 문제 5번**
+
+'''cpp
 #include <iostream>
 #include "sqlite3.h"
 #include <string>
@@ -72,3 +75,4 @@ int main() {
 
     return 0;
 }
+'''
